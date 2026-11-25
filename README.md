@@ -669,7 +669,7 @@ Potential improvements include:
 
 ## Author
 
-**Subhadip Chaulya**
+**SNEHA KHAUTA**
 
 - **University:** Adamas University
 - **Department:** Computer Science and Engineering
